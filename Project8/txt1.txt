@@ -1,0 +1,7 @@
+﻿1>------ 已启动生成: 项目: Project8, 配置: Debug Win32 ------
+1>Animal类.cpp
+1>C:\Users\SC\source\repos\Project8\Animal类.cpp(12,1): error C2248:  “Animal::age”: 无法访问 private 成员(在“Animal”类中声明)
+1>C:\Users\SC\source\repos\Project8\Animal类.cpp(4): message :  参见“Animal::age”的声明
+1>C:\Users\SC\source\repos\Project8\Animal类.cpp(1): message :  参见“Animal”的声明
+1>已完成生成项目“Project8.vcxproj”的操作 - 失败。
+========== 生成: 成功 0 个，失败 1 个，最新 0 个，跳过 0 个 ==========

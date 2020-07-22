@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1789,17): error C2672: “operator __surrogate_func”: 未找到匹配的重载函数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1808): message : 查看对正在编译的函数 模板 实例化“_FwdIt std::unique<_FwdIt,std::equal_to<void>>(_FwdIt,_FwdIt,_Pr)”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1808): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1808): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1808): message :             _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<T>>>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1808): message :             _Pr=std::equal_to<void>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1808): message :         ]
+C:\Users\SC\source\repos\Project14\main.cpp(45): message : 查看对正在编译的函数 模板 实例化“_FwdIt std::unique<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>>(_FwdIt,_FwdIt)”的引用
+C:\Users\SC\source\repos\Project14\main.cpp(45): message :         with
+C:\Users\SC\source\repos\Project14\main.cpp(45): message :         [
+C:\Users\SC\source\repos\Project14\main.cpp(45): message :             _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<T>>>,
+C:\Users\SC\source\repos\Project14\main.cpp(45): message :             _Ty=T
+C:\Users\SC\source\repos\Project14\main.cpp(45): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1789,1): error C2893: 未能使函数模板“unknown-type std::equal_to<void>::operator ()(_Ty1 &&,_Ty2 &&) noexcept(<expr>) const”专用化
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstddef(199): message : 参见“std::equal_to<void>::operator ()”的声明
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1789,1): message : 用下列模板参数:
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1789,1): message : “_Ty1=T &”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1789,1): message : “_Ty2=T &”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1791,26): error C2672: “operator __surrogate_func”: 未找到匹配的重载函数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1791,1): error C2893: 未能使函数模板“unknown-type std::equal_to<void>::operator ()(_Ty1 &&,_Ty2 &&) noexcept(<expr>) const”专用化
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstddef(199): message : 参见“std::equal_to<void>::operator ()”的声明
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1791,1): message : 用下列模板参数:
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1791,1): message : “_Ty1=T &”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\algorithm(1791,1): message : “_Ty2=T &”

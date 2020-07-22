@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\SC\source\repos\Project8_2_异常抽象类\源.cpp(30,35): warning C4290:  忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+C:\Users\SC\source\repos\Project8_2_异常抽象类\源.cpp(38,41): warning C4290:  忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  Project8_2_异常抽象类.vcxproj -> C:\Users\SC\source\repos\Project8_2_异常抽象类\Debug\Project8_2_异常抽象类.exe

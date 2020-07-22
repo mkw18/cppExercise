@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\SC\source\repos\Project4_1_CPU类\源.cpp(79,6): warning C4101:  “j”: 未引用的局部变量
+C:\Users\SC\source\repos\Project4_1_CPU类\源.cpp(128,6): warning C4101:  “j”: 未引用的局部变量
+  Project4_1_CPU类.vcxproj -> C:\Users\SC\source\repos\Project4_1_CPU类\Debug\Project4_1_CPU类.exe
